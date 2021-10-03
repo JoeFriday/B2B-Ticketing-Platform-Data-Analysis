@@ -9,7 +9,8 @@
     5) Resellers can have multiple branches offices or sell on their websites, while venue organizers can sell on-site or online.
 
 ###### Step1 - Define a simple transactional database
-! (file:///Users/xuanji/Desktop/Screen%20Shot%202021-10-03%20at%203.51.06%20PM.png)
+![Uploading Screen Shot 2021-10-03 at 3.51.06 PM.png…](https://user-images.githubusercontent.com/72532551/135745264-2747dc25-886f-4e68-bc96-0357f7e663b1.png)
+
 ###### Step2 - Insert sample data for the transactional database
 
 ###### Step3 - Implement the ETL process and create the BI data layer that will be used for reporting purposes
