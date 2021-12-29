@@ -1,6 +1,6 @@
 # B2B-Ticketing-Platform-Design-in-SQL
 
-## In this task, I designed a reporting system that will help decision-makers track business results by venue organizers and resellers and analyze the needs of selling event tickets. 
+In this task, I designed a reporting system that will help decision-makers track business results by venue organizers and resellers and analyze the needs of selling event tickets. 
   #### Resellers get a fixed commission per sold ticket based on different events. Resellers can have multiple branches offices or sell on their websites, while venue organizers can sell on-site or online. Customers can buy tickets from a reseller or a venue organizer.
 
 ### Defined a transactional database
